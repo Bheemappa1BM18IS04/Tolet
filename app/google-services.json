@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "663322799121",
+    "firebase_url": "https://qurantenee-default-rtdb.firebaseio.com",
+    "project_id": "qurantenee",
+    "storage_bucket": "qurantenee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663322799121:android:cf1363669c540cb03a95b0",
+        "android_client_info": {
+          "package_name": "com.example.fire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663322799121-jtoad2nrhjq5cijk8bign568mhj3gj4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOXnoDDLrTzDUbzgS9K-C-KlvXEBMNdYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663322799121-jtoad2nrhjq5cijk8bign568mhj3gj4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663322799121:android:75c05ca4dc1f80a03a95b0",
+        "android_client_info": {
+          "package_name": "com.example.tolet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663322799121-jtoad2nrhjq5cijk8bign568mhj3gj4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOXnoDDLrTzDUbzgS9K-C-KlvXEBMNdYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663322799121-jtoad2nrhjq5cijk8bign568mhj3gj4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
